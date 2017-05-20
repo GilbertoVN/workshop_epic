@@ -1,8 +1,8 @@
 # workshop_epic
 
 ## Sobre
-Teste
+É apenas um arquivo de teste
 
 
 ## Colaboradores
-Teste
+Eu mesmo, sozinho.
