@@ -1,7 +1,7 @@
 # workshop_epic
 
 ## Sobre
-É apenas um arquivo de teste
+- É apenas um arquivo de teste
 
 
 ## Colaboradores
